@@ -10,9 +10,6 @@ OnePage News is a simple and responsive news aggregation website built with HTML
 - **Error Handling**: Provides user-friendly error messages for API issues.
 - **Customizable**: Easily adjustable styles and layouts to match your branding.
 
-## Hosted Website Url
-
-  onepagenews.wuaze.com
 
 ## Acknowledgements
 Bootstrap - Front-end framework for building responsive websites.
